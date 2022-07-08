@@ -10,5 +10,6 @@ public class Hello {
 //        再切回来的时候，它会使用 git branch -d <branch-name> 的方式，再把临时创建的那个仅供回看目的的分支给删除掉
         System.out.println("x cui");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
